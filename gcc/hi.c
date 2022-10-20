@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void main(){
+void hi(){
   printf("Hello Linuxxxx!!!\n", );
 }
