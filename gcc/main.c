@@ -1,4 +1,4 @@
-##include <stdio.h>
+extern void h1();
 
 void main(){
   hi();
