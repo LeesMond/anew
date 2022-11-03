@@ -6,4 +6,4 @@ do
 	echo "Line $count : $line"
 	count=$[ $count + 1 ]
 done
-echo "Finshing processing the file."
+echo "Finishing processing the file."
