@@ -1,3 +1,5 @@
 # anew
 
 node/**/node_modules
+
+mongodb/backup
